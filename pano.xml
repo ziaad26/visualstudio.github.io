@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" appversion="6.1.11" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" height="3000" levelingroll="0" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510">
+      <level width="3000" height="3000" predecode="0" preload="0"/>
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="59.44" pan="0" projection="4" tilt="0"/>
+      <flyin fov="53.55" pan="0.61" projection="4" tilt="-5.71"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" author="" tags="Last" datetime="" copyright="" info="" latitude="" nodeid="node1" source="" heading="0" comment="" longitude="" customnodeid="" title="Showroom"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="3.3/-0.5/70.0" skinid="ht_node" pan="-344.19" tilt="-7.41" url="{node2}" title="Parfumerie"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="2" blendtime="1" zoomout="2" enabled="1" zoomfov="40" zoomoutpause="1"/>
+    <autorotate delay="5.00" speed="0.200" startloaded="0" useanimation="0" nodedelay="0.00" noderandom="1" enabled="1" nodefilter="" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1" sensitivity="8" contextprojections="0" invertwheel="0" lockedwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" height="3000" levelingroll="0" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510">
+      <level width="3000" height="3000" predecode="0" preload="0"/>
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="71.78" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fov="120" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" author="" tags="Last" datetime="" copyright="" info="" latitude="" nodeid="node2" source="" heading="0" comment="" longitude="" customnodeid="" title="Parfumerie"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" background="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" wordwrap="1" border="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" description="" target="" skinid="ht_node" pan="-235.27" tilt="-17.75" url="{node1}" title="Showroom"/>
+      <hotspot id="Point02" description="" target="122.5/-16.2/70.0" skinid="ht_node" pan="-359.37" tilt="-4.82" url="{node2}" title="Parfumerie"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="2" blendtime="1" zoomout="2" enabled="1" zoomfov="40" zoomoutpause="1"/>
+    <autorotate delay="5.00" speed="0.200" startloaded="0" useanimation="0" nodedelay="0.00" noderandom="1" enabled="1" nodefilter="" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" lockedkeyboard="0" contextfullscreen="1" speedwheel="1" invertcontrol="1" sensitivity="8" contextprojections="0" invertwheel="0" lockedwheel="0" hideabout="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" tags="" datetime="" copyright="" info="" latitude="" nodeid="master" source="" heading="0" comment="" longitude="" customnodeid="" title=""/>
+  </masternode>
+</tour>
