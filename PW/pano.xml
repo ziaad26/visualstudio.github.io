@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.1.11" apprev="18043">
+  <panorama id="node2">
+    <input levelbias="0.400" levelingpitch="-0.120184" overlap="1" height="1000" levelbiashidpi="1.000" width="1000" levelingroll="0.010534" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-2.53" tilt="3.33" projection="4" fov="52.26"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata comment="" description="" author="" latitude="" title="Séjour 001" nodeid="node2" copyright="" longitude="" source="" tags="Rendu" heading="0" datetime="" info="" customnodeid=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1" enabled="1" backgroundalpha="1" textalpha="1" height="20" width="180" borderalpha="1" textcolor="0x000000" borderradius="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomfov="20" zoomafteroutfov="20" zoomout="0" type="crossdissolve" enabled="1" blendtime="1" zoomafterinfov="90" blendcolor="0x000000" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control hideabout="0" rubberband="0" contextfullscreen="1" speedwheel="1" simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" invertwheel="0" lockedmouse="0" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" author="" latitude="" title="" nodeid="master" copyright="" longitude="" source="" tags="" heading="0" datetime="" info="" customnodeid=""/>
+  </masternode>
+</tour>
