@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="6.1.11" apprev="18043">
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" width="1000" leveltilesize="510" levelbias="0.400" levelingroll="0.010534" height="1000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="-0.120184">
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="3.33" fov="52.26" pan="-2.53" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" heading="0" tags="Rendu" longitude="" datetime="" comment="" info="" latitude="" copyright="" source="" title="Séjour 001" nodeid="node2" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label border="1" wordwrap="1" borderradius="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" enabled="1" borderalpha="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.15" id="Point02" url="{node3}" pan="-78.22" title="" target="" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" blendtime="1" zoomfov="20" enabled="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" speedwheel="1" lockedkeyboard="0" sensitivity="8" contextfullscreen="1" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" invertwheel="0" hideabout="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" width="1000" leveltilesize="510" levelbias="0.400" levelingroll="0" height="1000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" heading="0" tags="Nouveau dossier" longitude="" datetime="" comment="" info="" latitude="" copyright="" source="" title="" nodeid="node3" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label border="1" wordwrap="1" borderradius="1" width="180" height="20" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" enabled="1" borderalpha="1" textalpha="1" backgroundalpha="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot tilt="-18.64" id="Point01" url="{node2}" pan="-229.8" title="Séjour 001" target="" skinid="ht_node" description=""/>
+      <hotspot tilt="7.98" id="Point02" url="{node2}" pan="-7.68" title="Séjour 001" target="" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" zoomout="0" zoomin="0" type="crossdissolve" zoomoutpause="1" softedge="0" blendtime="1" zoomfov="20" enabled="1" zoomspeed="2" zoomafteroutfov="20" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" speedwheel="1" lockedkeyboard="0" sensitivity="8" contextfullscreen="1" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" invertwheel="0" hideabout="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" heading="0" tags="" longitude="" datetime="" comment="" info="" latitude="" copyright="" source="" title="" nodeid="master" author="" description=""/>
+  </masternode>
+</tour>
