@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="18043" appversion="6.1.11" start="node1">
   <panorama id="node1">
-    <input height="1500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1500" leveltilesize="510" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" levelbiashidpi="1.000">
-      <level height="1500" predecode="0" width="1500" preload="0"/>
-      <level height="750" predecode="0" width="750" preload="0"/>
-      <level height="375" predecode="1" width="375" preload="1"/>
+    <input height="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" leveltilesize="1080" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" levelbiashidpi="1.000">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="1" width="625" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -18,7 +18,7 @@
       <label height="20" enabled="1" background="1" bordercolor="0x000000" textalpha="1" width="180" textcolor="0x000000" backgroundalpha="1" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" border="1"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot title="" skinid="ht_node" tilt="-17.23" description="" url="{node3}" target="" id="Point01" pan="-199.72"/>
-      <hotspot title="" skinid="ht_node" tilt="-9.86" description="" url="{node2}" target="" id="Point02" pan="-36.71"/>
+      <hotspot title="" skinid="ht_node" tilt="-9.37" description="" url="{node2}" target="" id="Point02" pan="-59.45"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" softedge="0" zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" blendtime="1" zoomspeed="2" zoomafteroutfov="20"/>
@@ -26,10 +26,10 @@
     <control simulatemass="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" lockedmouse="0" rubberband="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node3">
-    <input height="1500" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1500" leveltilesize="510" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" levelbiashidpi="1.000">
-      <level height="1500" predecode="0" width="1500" preload="0"/>
-      <level height="750" predecode="0" width="750" preload="0"/>
-      <level height="375" predecode="1" width="375" preload="1"/>
+    <input height="2500" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" leveltilesize="1080" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" levelbiashidpi="1.000">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="1" width="625" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -50,10 +50,10 @@
     <control simulatemass="1" lockedkeyboard="0" contextfullscreen="1" sensitivity="8" lockedmouse="0" rubberband="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node2">
-    <input height="1500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1500" leveltilesize="510" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" levelbiashidpi="1.000">
-      <level height="1500" predecode="0" width="1500" preload="0"/>
-      <level height="750" predecode="0" width="750" preload="0"/>
-      <level height="375" predecode="1" width="375" preload="1"/>
+    <input height="2500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" leveltilesize="1080" levelbias="0.400" levelingroll="0" overlap="1" levelingpitch="0" levelbiashidpi="1.000">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="1" width="625" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
