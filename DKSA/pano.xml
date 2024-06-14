@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour start="node1" apprev="18043" appversion="6.1.11">
   <panorama id="node1">
-    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" leveltilesize="510" width="1500">
-      <level height="1500" width="1500" preload="0" predecode="0"/>
-      <level height="750" width="750" preload="0" predecode="0"/>
-      <level height="375" width="375" preload="1" predecode="1"/>
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" height="2000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" leveltilesize="510" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
@@ -28,10 +28,10 @@
     <control lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedwheel="0" hideabout="0" contextprojections="0" sensitivity="8" speedwheel="1" simulatemass="1" dblclickfullscreen="0" rubberband="0"/>
   </panorama>
   <panorama id="node2">
-    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" leveltilesize="510" width="1500">
-      <level height="1500" width="1500" preload="0" predecode="0"/>
-      <level height="750" width="750" preload="0" predecode="0"/>
-      <level height="375" width="375" preload="1" predecode="1"/>
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" height="2000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" leveltilesize="510" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
