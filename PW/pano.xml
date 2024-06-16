@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="6.1.11" start="node2" apprev="18043">
-  <panorama id="node2">
-    <input height="1000" levelingpitch="-0.120184" width="1000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.010534" leveltilesize="510" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
-      <level height="1000" width="1000" preload="0" predecode="0"/>
-      <level height="500" width="500" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start tilt="3.33" fov="52.26" projection="4" pan="-2.53"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fovfisheye="360" scaletofit="1" fov="120" fovstereographic="270" pan="360"/>
-    </view>
-    <userdata customnodeid="" datetime="" author="" description="" title="Séjour 001" nodeid="node2" latitude="" tags="Rendu" longitude="" source="" info="" comment="" copyright="" heading="0"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label enabled="1" height="20" border="1" width="180" textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" background="1" textalpha="1" borderalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
-    </hotspots>
-    <media/>
-    <transition enabled="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" zoomin="0" zoomafteroutfov="20" blendtime="1" softedge="0" zoomoutpause="1"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control simulatemass="1" invertwheel="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" rubberband="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" hideabout="0" contextprojections="0" lockedmouse="0" speedwheel="1"/>
-  </panorama>
-  <masternode>
-    <userdata customnodeid="" datetime="" author="" description="" title="" nodeid="master" latitude="" tags="" longitude="" source="" info="" comment="" copyright="" heading="0"/>
-  </masternode>
-</tour>
+<panorama apprev="18043" appversion="6.1.11" id="node1">
+  <input height="2500" overlap="1" levelingpitch="0" levelingroll="0" width="2500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+    <level predecode="0" height="2500" preload="0" width="2500"/>
+    <level predecode="0" height="1250" preload="0" width="1250"/>
+    <level predecode="0" height="625" preload="0" width="625"/>
+    <level predecode="1" height="312" preload="1" width="312"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" pan="0" tilt="0" projection="4"/>
+    <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max fov="120" scaletofit="1" fovfisheye="360" pan="360" tilt="90" fovstereographic="270"/>
+  </view>
+  <userdata author="" comment="" latitude="" title="" customnodeid="" description="" info="" copyright="" nodeid="node1" datetime="" source="" tags="Rendus" heading="0" longitude=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label bordercolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" enabled="1" background="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" border="1"/>
+    <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" zoomin="0" zoomafteroutfov="20" zoomspeed="2" type="crossdissolve" softedge="0" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" blendcolor="0x000000" zoomoutpause="1"/>
+  <autorotate delay="5.00" useanimation="0" nodedelay="0.00" nodefilter="" enabled="1" startloaded="0" noderandom="1" returntohorizon="0.000" speed="0.100"/>
+  <flyintransition enabled="1" speed="2.00"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control rubberband="0" lockedkeyboard="0" sensitivity="8" hideabout="0" dblclickfullscreen="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" speedwheel="1" contextprojections="0" lockedmouse="0" contextfullscreen="1"/>
+</panorama>
