@@ -19,6 +19,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" textcolor="0x000000" backgroundalpha="1" height="20" background="1" borderradius="1" wordwrap="1" textalpha="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
       <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="" url="{node2}" skinid="ht_node" pan="-9.15" title="" tilt="-0.83" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" zoomafterinfov="90" zoomout="0" zoomoutpause="1" zoomafteroutfov="20" zoomin="0" zoomfov="20" type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" blendcolor="0x000000"/>
@@ -41,6 +42,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" textcolor="0x000000" backgroundalpha="1" height="20" background="1" borderradius="1" wordwrap="1" textalpha="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
       <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" target="" url="{node1}" skinid="ht_node" pan="-2.23" title="" tilt="-1.47" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" zoomafterinfov="90" zoomout="0" zoomoutpause="1" zoomafteroutfov="20" zoomin="0" zoomfov="20" type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" blendcolor="0x000000"/>
