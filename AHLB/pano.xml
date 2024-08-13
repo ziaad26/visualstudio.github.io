@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour start="node2" apprev="18043" appversion="6.1.11">
   <panorama id="node2" hideabout="1">
-    <input overlap="1" height="2500" levelbiashidpi="1.000" width="2500" leveltilesize="510" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2500" width="2500" predecode="0" preload="0"/>
-      <level height="1250" width="1250" predecode="0" preload="0"/>
-      <level height="625" width="625" predecode="0" preload="0"/>
-      <level height="312" width="312" predecode="1" preload="1"/>
+    <input overlap="1" height="3000" levelbiashidpi="1.000" width="3000" leveltilesize="510" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="3000" width="3000" predecode="0" preload="0"/>
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
@@ -28,11 +28,11 @@
     <control invertcontrol="1" rubberband="0" invertwheel="1" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" speedwheel="1" contextprojections="0" simulatemass="1" lockedwheel="0" lockedkeyboard="0" hideabout="1"/>
   </panorama>
   <panorama id="node1" hideabout="1">
-    <input overlap="1" height="2500" levelbiashidpi="1.000" width="2500" leveltilesize="510" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2500" width="2500" predecode="0" preload="0"/>
-      <level height="1250" width="1250" predecode="0" preload="0"/>
-      <level height="625" width="625" predecode="0" preload="0"/>
-      <level height="312" width="312" predecode="1" preload="1"/>
+    <input overlap="1" height="3000" levelbiashidpi="1.000" width="3000" leveltilesize="510" levelbias="0.400" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="3000" width="3000" predecode="0" preload="0"/>
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
