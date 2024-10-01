@@ -4,18 +4,22 @@
 	"external": {
 		"js": [
 			"https://www.youtube.com/iframe_api",
-			"https://player.vimeo.com/api/player.js"
+			"https://player.vimeo.com/api/player.js",
+			"3rdparty/lottie/lottie.min.js",
+			"webxr/webxr-polyfill.min.js"
 		],
 		"css": []
 	},
 	"skin": {
 		"js": "skin.js"
 	},
-	"vrskin": {},
+	"vrskin": {
+		"js": "skin_vr.js"
+	},
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2024-09-30T14:01:12.959Z",
+	"creationdate": "2024-10-01T01:56:28.708Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
