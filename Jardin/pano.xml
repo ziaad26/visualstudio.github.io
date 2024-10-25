@@ -120,6 +120,7 @@
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
       <hotspot target="" id="Point01" url="{node4}" skinid="ht_node" title="Arrière Cour" pan="-2.82" tilt="0.36" description=""/>
       <hotspot target="" id="Point02" url="{node6}" skinid="ht_node" title="l'Allé 02" pan="-4.04999" tilt="-13.36" description=""/>
+      <hotspot target="" id="Point03" url="{node3}" skinid="ht_node" title="Coin entré" pan="-180.75" tilt="-3.61" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" softedge="0" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" zoomafterinfov="140" type="crossdissolve" enabled="1" zoomfov="40"/>
@@ -169,6 +170,9 @@
       <label width="180" textcolor="0x000000" background="1" border="1" height="20" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" backgroundalpha="1" enabled="1" borderalpha="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
       <hotspot target="" id="Point02" url="{node5}" skinid="ht_node" title="l'Allé  Droite" pan="-151.73" tilt="-1.19" description=""/>
+      <hotspot target="" id="Point01" url="{node9}" skinid="ht_node" title="Arrière Cour 02" pan="-49.12" tilt="-8.84" description=""/>
+      <hotspot target="" id="Point03" url="{node10}" skinid="ht_node" title="Arrière Cour  03" pan="-230.12" tilt="-6.16" description=""/>
+      <hotspot target="" id="Point04" url="{node1}" skinid="ht_node" title="Cour Entrée" pan="-195.01" tilt="-0.71" description=""/>
     </hotspots>
     <media/>
     <transition blendtime="1" softedge="0" delay="none" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" zoomafteroutfov="40" zoomout="0" zoomafterinfov="140" type="crossdissolve" enabled="1" zoomfov="40"/>
