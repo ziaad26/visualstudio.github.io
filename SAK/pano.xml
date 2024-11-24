@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20913" hassounds="0" appversion="7.1.2" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" overlap="1" width="4000" height="4000" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="4000" height="4000" predecode="0" preload="0"/>
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata heading="0" info="" description="" copyright="" tags="Rendu" title="Séjour SAK" nodeid="node1" source="" datetime="" customnodeid="" author="" longitude="" latitude="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label bordercolor="0x000000" borderalpha="1" textalpha="1" backgroundalpha="1" width="180" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderradius="1" border="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node2}" pan="-356.09" description="" skinid="ht_node" id="Point01" tilt="-2.62" title="Séjour SAK 02" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" softedge="0" zoomafterinfov="140" zoomfov="40" type="crossdissolve" delay="none" zoomafteroutfov="40" blendtime="1" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" invertwheel="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" zoomcentercursor="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" overlap="1" width="4000" height="4000" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="4000" height="4000" predecode="0" preload="0"/>
+      <level width="2000" height="2000" predecode="0" preload="0"/>
+      <level width="1000" height="1000" predecode="0" preload="0"/>
+      <level width="500" height="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata heading="0" info="" description="" copyright="" tags="Rendu" title="Séjour SAK 02" nodeid="node2" source="" datetime="" customnodeid="" author="" longitude="" latitude="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label bordercolor="0x000000" borderalpha="1" textalpha="1" backgroundalpha="1" width="180" background="1" height="20" textcolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" enabled="1" borderradius="1" border="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot url="{node1}" pan="-358.25" description="" skinid="ht_node" id="Point01" tilt="-1.15" title="Séjour SAK" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" zoomin="0" softedge="0" zoomafterinfov="140" zoomfov="40" type="crossdissolve" delay="none" zoomafteroutfov="40" blendtime="1" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" invertwheel="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedmouse="0" simulatemass="1" lockedkeyboardzoom="0" lockedkeyboard="0" contextfullscreen="1" rubberband="0" contextprojections="0" lockedwheel="0" hideabout="0" zoomcentercursor="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" copyright="" tags="" title="Séjour" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
