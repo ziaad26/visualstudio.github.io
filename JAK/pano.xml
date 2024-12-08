@@ -22,8 +22,9 @@
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" zoomin="0" blendtime="1" zoomafterinfov="140" softedge="0" zoomspeed="2" zoomoutpause="1" delay="none" enabled="1" type="crossdissolve" zoomfov="40" zoomout="0" blendcolor="0x000000"/>
+    <autorotate useanimation="0" nodedelay="0.00" horizonfromdefview="0" nodefilter="" delay="0.00" enabled="1" returntohorizon="0.000" startloaded="0" noderandom="1" speed="0.100"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
-    <control speedwheel="1" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" invertwheel="0" zoomcentercursor="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" contextvr="1" lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8"/>
+    <control speedwheel="1" dblclickfullscreen="0" simulatemass="1" lockedwheel="1" invertwheel="0" zoomcentercursor="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" contextvr="1" lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8"/>
   </panorama>
   <panorama id="node1">
     <input levelingroll="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4000" overlap="1" height="4000">
@@ -43,11 +44,13 @@
     <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
       <label textcolor="0x000000" textalpha="1" wordwrap="1" background="1" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" border="1" enabled="1" height="20" backgroundalpha="1" borderalpha="1" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot target="" skinid="ht_node" tilt="3.48" title="Salon" url="{node2}" pan="-117.85" id="Point01" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" zoomin="0" blendtime="1" zoomafterinfov="140" softedge="0" zoomspeed="2" zoomoutpause="1" delay="none" enabled="1" type="crossdissolve" zoomfov="40" zoomout="0" blendcolor="0x000000"/>
+    <autorotate useanimation="0" nodedelay="0.00" horizonfromdefview="0" nodefilter="" delay="0.00" enabled="1" returntohorizon="0.000" startloaded="0" noderandom="1" speed="0.100"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
-    <control speedwheel="1" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" invertwheel="0" zoomcentercursor="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" contextvr="1" lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8"/>
+    <control speedwheel="1" dblclickfullscreen="0" simulatemass="1" lockedwheel="1" invertwheel="0" zoomcentercursor="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" contextvr="1" lockedmouse="0" contextprojections="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8"/>
   </panorama>
   <masternode>
     <userdata title="" author="" copyright="" comment="" description="" tags=""/>
