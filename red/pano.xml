@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.2" start="node11" hassounds="0" apprev="20913">
+  <panorama id="node11">
+    <input leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="4000" levelingpitch="0" width="4000">
+      <level predecode="0" preload="0" height="4000" width="4000"/>
+      <level predecode="0" preload="0" height="2000" width="2000"/>
+      <level predecode="0" preload="0" height="1000" width="1000"/>
+      <level predecode="1" preload="1" height="500" width="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
+    </view>
+    <userdata comment="" datetime="" author="" heading="0" source="" customnodeid="" description="" copyright="" title="" latitude="" nodeid="node11" info="" tags="Last" longitude=""/>
+    <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
+      <label background="1" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" textalpha="1" height="20" enabled="1" backgroundalpha="1" border="1" borderalpha="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" delay="none" zoomspeed="2" zoomafteroutfov="40" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomin="0" enabled="1" blendcolor="0x000000" blendtime="1"/>
+    <autorotate useanimation="1" delay="0.00" speed="0.200" nodefilter="" noderandom="1" returntohorizon="0.000" nodedelay="0.00" enabled="1" horizonfromdefview="0" startloaded="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="1"/>
+    <control lockedkeyboard="0" contextprojections="0" speedwheel="1" invertcontrol="1" lockedwheel="1" rubberband="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" invertwheel="0" contextvr="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" author="" description="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>

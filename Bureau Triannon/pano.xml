@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node1" apprev="20913" appversion="7.1.2">
+  <panorama id="node1">
+    <input levelingroll="0" width="4000" levelingpitch="0" height="4000" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="4000" preload="0" predecode="0" height="4000"/>
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" comment="" datetime="" longitude="" title="Cliquez ici" source="" copyright="" description="" tags="Last" info="" latitude="" customnodeid="" author="" nodeid="node1"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" borderalpha="1" borderradius="1" height="20" bordercolor="0x000000" textalpha="1" enabled="1" textcolor="0x000000" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" target="" id="Point01" skinid="ht_node" pan="-355.23" tilt="-2.21" title="Cliquez ici" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" softedge="0" zoomspeed="2" type="crossdissolve" enabled="1" zoomout="0" blendtime="1" zoomoutpause="1" zoomin="0" zoomafteroutfov="40" delay="none" zoomafterinfov="140"/>
+    <autorotate nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" startloaded="0" speed="0.100" nodedelay="0.00" noderandom="1" delay="4.00" useanimation="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" speedwheel="1" lockedwheel="0" invertwheel="0" zoomcentercursor="1" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedkeyboard="0" hideabout="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" width="4000" levelingpitch="0" height="4000" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="4000" preload="0" predecode="0" height="4000"/>
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" comment="" datetime="" longitude="" title="Cliquez ici" source="" copyright="" description="" tags="ProgramFiles" info="" latitude="" customnodeid="" author="" nodeid="node2"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" borderalpha="1" borderradius="1" height="20" bordercolor="0x000000" textalpha="1" enabled="1" textcolor="0x000000" background="1" border="1" backgroundcolor="0xffffff" wordwrap="1" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
+      <hotspot description="" target="" id="Point01" skinid="ht_node" pan="-282.98" tilt="-1.17" title="Cliquez ici" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomfov="40" softedge="0" zoomspeed="2" type="crossdissolve" enabled="1" zoomout="0" blendtime="1" zoomoutpause="1" zoomin="0" zoomafteroutfov="40" delay="none" zoomafterinfov="140"/>
+    <autorotate nodefilter="" returntohorizon="0.000" horizonfromdefview="0" enabled="1" startloaded="0" speed="0.100" nodedelay="0.00" noderandom="1" delay="4.00" useanimation="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextvr="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" speedwheel="1" lockedwheel="0" invertwheel="0" zoomcentercursor="1" invertcontrol="1" rubberband="0" contextfullscreen="1" lockedkeyboard="0" hideabout="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata description="" tags="" comment="" title="" author="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
