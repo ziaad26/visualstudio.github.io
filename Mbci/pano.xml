@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<panorama appversion="7.1.2" apprev="20913" hassounds="0" id="node1">
-  <input leveltilesize="510" height="3000" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelingroll="0">
-    <level predecode="0" preload="0" height="3000" width="3000"/>
-    <level predecode="0" preload="0" height="1500" width="1500"/>
-    <level predecode="0" preload="0" height="750" width="750"/>
-    <level predecode="1" preload="1" height="375" width="375"/>
-    <preview color="0x808080" strip="1"/>
+<panorama apprev="20913" id="node1" hassounds="0" appversion="7.1.2">
+  <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" width="3000" levelbias="0.400" levelingroll="0" height="3000">
+    <level width="3000" predecode="0" height="3000" preload="0"/>
+    <level width="1500" predecode="0" height="1500" preload="0"/>
+    <level width="750" predecode="0" height="750" preload="0"/>
+    <level width="375" predecode="1" height="375" preload="1"/>
+    <preview strip="1" color="0x808080"/>
   </input>
   <view pannorth="0" fovmode="2">
-    <start tilt="0" projection="4" pan="0" fov="100"/>
-    <flyin tilt="-90" projection="9" pan="0" fov="170"/>
-    <min tilt="-90" pan="0" fovpixel="2"/>
-    <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fov="140" fovstereographic="330"/>
+    <start projection="4" pan="0" tilt="0" fov="100"/>
+    <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" fovstereographic="330" fovfisheye="360" tilt="90" scaletofit="1" fov="140"/>
   </view>
-  <userdata nodeid="node1" tags="Render" description="" author="" customnodeid="" source="" datetime="" copyright="" heading="0" comment="" info="" title="" longitude="" latitude=""/>
-  <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-    <label textcolor="0x000000" enabled="1" height="20" backgroundalpha="1" backgroundcolor="0xffffff" wordwrap="1" background="1" bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" borderradius="1" width="180"/>
-    <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+  <userdata tags="Render" source="" info="" comment="" customnodeid="" heading="0" latitude="" datetime="" longitude="" author="" description="" nodeid="node1" title="" copyright=""/>
+  <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+    <label background="1" wordwrap="1" borderalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" height="20" bordercolor="0x000000" enabled="1" border="1"/>
+    <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1"/>
   </hotspots>
   <media/>
-  <transition zoomoutpause="1" enabled="1" delay="none" blendtime="1" zoomfov="40" zoomin="0" zoomspeed="2" type="crossdissolve" zoomout="0" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" blendcolor="0x000000"/>
-  <autorotate enabled="1" delay="5.00" nodefilter="" speed="0.100" startloaded="0" horizonfromdefview="0" noderandom="1" nodedelay="0.00" useanimation="0" returntohorizon="0.000"/>
-  <flyintransition enabled="1" speed="2.00"/>
-  <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-  <control simulatemass="1" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" contextfullscreen="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" contextvr="1" zoomcentercursor="1" rubberband="0"/>
-  <projectuserdata copyright="" comment="" title="" tags="" description="" author=""/>
+  <transition zoomafterinfov="140" blendtime="1" type="crossdissolve" zoomoutpause="1" zoomin="0" zoomspeed="2" zoomfov="40" delay="none" softedge="0" zoomafteroutfov="40" blendcolor="0x000000" enabled="1" zoomout="0"/>
+  <autorotate nodedelay="0.00" horizonfromdefview="0" useanimation="0" noderandom="1" speed="0.100" returntohorizon="0.000" delay="5.00" nodefilter="" startloaded="0" enabled="1"/>
+  <flyintransition speed="2.00" enabled="1"/>
+  <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control speedwheel="1" zoomcentercursor="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" invertcontrol="1" invertwheel="0" rubberband="0" lockedwheel="0" sensitivity="8" lockedmouse="0" contextfullscreen="1" contextprojections="0" lockedkeyboard="0"/>
+  <projectuserdata tags="" author="" description="" comment="" title="" copyright=""/>
 </panorama>
