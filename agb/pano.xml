@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="7.1.2" hassounds="0" apprev="20913">
+  <panorama id="node1">
+    <input height="2000" width="2000" leveltilesize="510" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" preload="0" width="2000"/>
+      <level height="1000" predecode="0" preload="0" width="1000"/>
+      <level height="500" predecode="1" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata heading="0" comment="" nodeid="node1" customnodeid="" author="" copyright="" datetime="" source="" description="" latitude="" longitude="" info="" title="Chambre 01" tags="Rendus"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" background="1" textalpha="1" borderradius="1" wordwrap="1" width="180" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" border="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot pan="-184.91" target="" title="" id="Point01" tilt="19.43" description="" skinid="ht_node" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" zoomafteroutfov="40" delay="none" zoomspeed="2" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" hideabout="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" speedwheel="1" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2000" width="2000" leveltilesize="510" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0">
+      <level height="2000" predecode="0" preload="0" width="2000"/>
+      <level height="1000" predecode="0" preload="0" width="1000"/>
+      <level height="500" predecode="1" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata heading="0" comment="" nodeid="node2" customnodeid="" author="" copyright="" datetime="" source="" description="" latitude="" longitude="" info="" title="" tags="Pano2VR7"/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label height="20" bordercolor="0x000000" textcolor="0x000000" background="1" textalpha="1" borderradius="1" wordwrap="1" width="180" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" border="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot pan="-207.42" target="" title="Chambre 01" id="Point01" tilt="-2.42" description="" skinid="ht_node" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomout="0" blendtime="1" zoomin="0" zoomafteroutfov="40" delay="none" zoomspeed="2" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" enabled="1" zoomfov="40"/>
+    <animation useinautorotation="0" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextprojections="0" contextfullscreen="1" contextvr="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" hideabout="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" speedwheel="1" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="SDE 01" author="" copyright="" tags="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
