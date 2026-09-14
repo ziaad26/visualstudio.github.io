@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22555" appversion="8.0.2" hassounds="0" start="node3">
+  <panorama id="node3">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-03T00:54:47" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="Nouveaudossier" title="RDC Séjour 01"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-55.14" skinid="ht_node" target="" tilt="-1.38" title="Séjour 02" url="{node4}"/>
+      <hotspot description="" id="Point02" pan="-19.13" skinid="ht_node" target="" tilt="1.16" title="RDC Cuisine" url="{node5}"/>
+      <hotspot description="" id="Point03" pan="-43.5" skinid="ht_node" target="" tilt="10.97" title="R+1 Chambre" url="{node11}"/>
+      <hotspot description="" id="Point04" pan="-41.19" skinid="ht_node" target="" tilt="-2.34" title="Rdc Chambre" url="{node6}"/>
+      <hotspot description="" id="Point05" pan="-63.37" skinid="ht_node" target="" tilt="17.15" title="R+1 Chambre" url="{node11}"/>
+      <hotspot description="" id="Point06" pan="-78.98" skinid="ht_node" target="" tilt="-6.1" title="Escalier RDC" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-03T00:54:43" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="Nouveaudossier" title="Séjour 02"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="144.53" skinid="ht_node" target="" tilt="1.29" title="RDC Séjour 01" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="-14.73" skinid="ht_node" target="" tilt="-0.67" title="RDC Cuisine" url="{node5}"/>
+      <hotspot description="" id="Point03" pan="-49.06" skinid="ht_node" target="" tilt="-0.78" title="Rdc Chambre" url="{node6}"/>
+      <hotspot description="" id="Point04" pan="10.21" skinid="ht_url" target="_blank" tilt="-2.39" title="" url=""/>
+      <hotspot description="" id="Point05" pan="-165.94" skinid="ht_node" target="" tilt="-5.51" title="Escalier RDC" url="{node17}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-11T16:39:11" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="LastLastLast" title="Escalier RDC"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="140.45" skinid="ht_node" target="" tilt="-10.79" title="RDC Séjour 01" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="-43.94" skinid="ht_node" target="" tilt="53.53" title="R+1 Chambre" url="{node11}"/>
+      <hotspot description="" id="Point03" pan="-101.21" skinid="ht_node" target="" tilt="10.01" title="R+1 Chambre vue 2" url="{node12}"/>
+      <hotspot description="" id="Point04" pan="48.43" skinid="ht_node" target="" tilt="-6.07" title="Rdc Chambre" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-03T00:54:39" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Nouveaudossier" title="RDC Cuisine"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-157.66" skinid="ht_node" target="" tilt="-13.81" title="Séjour 02" url="{node4}"/>
+      <hotspot description="" id="Point02" pan="-173.18" skinid="ht_node" target="" tilt="1.33" title="RDC Séjour 01" url="{node3}"/>
+      <hotspot description="" id="Point04" pan="-50.99" skinid="ht_node" target="" tilt="-6.31" title="Rdc Chambre" url="{node6}"/>
+      <hotspot description="" id="Point03" pan="-25.27" skinid="ht_node" target="" tilt="-1.92" title="R+1 Chambre" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-05T11:13:06" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="001" title="Rdc Chambre"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="47.46" skinid="ht_node" target="" tilt="-3.6" title="Salle d'eau RDC" url="{node7}"/>
+      <hotspot description="" id="Point02" pan="73.48" skinid="ht_node" target="" tilt="-1.05" title="Salle d'eau RDC 02" url="{node8}"/>
+      <hotspot description="" id="Point03" pan="85.82" skinid="ht_node" target="" tilt="-1.37" title="Dressing Rdc" url="{node9}"/>
+      <hotspot description="" id="Point04" pan="80.42" skinid="ht_node" target="" tilt="-24.12" title="Dressing Rdc" url="{node10}"/>
+      <hotspot description="" id="Point05" pan="127.74" skinid="ht_node" target="" tilt="-16.37" title="RDC Séjour 01" url="{node3}"/>
+      <hotspot description="" id="Point06" pan="0.47" skinid="ht_node" target="" tilt="9.81" title="R+1 Chambre" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-05T11:30:24" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="001" title="Salle d'eau RDC"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="57.36" skinid="ht_node" target="" tilt="-13.12" title="Dressing Rdc" url="{node9}"/>
+      <hotspot description="" id="Point02" pan="152.88" skinid="ht_node" target="" tilt="-14.36" title="Rdc Chambre" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-05T11:22:07" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="001" title="Salle d'eau RDC 02"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="176.18" skinid="ht_node" target="" tilt="3.11" title="Dressing Rdc" url="{node9}"/>
+      <hotspot description="" id="Point02" pan="-123.69" skinid="ht_node" target="" tilt="-1.62" title="Dressing Rdc" url="{node10}"/>
+      <hotspot description="" id="Point03" pan="-102.9" skinid="ht_node" target="" tilt="-7.58" title="Rdc Chambre" url="{node6}"/>
+      <hotspot description="" id="Point04" pan="60.15" skinid="ht_node" target="" tilt="18.14" title="RDC Séjour 01" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-05T11:26:32" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="001" title="Dressing Rdc"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="179.62" skinid="ht_node" target="" tilt="0.149998" title="Rdc Chambre" url="{node6}"/>
+      <hotspot description="" id="Point02" pan="3.24" skinid="ht_node" target="" tilt="-2.58" title="Dressing Rdc" url="{node9}"/>
+      <hotspot description="" id="Point03" pan="-16.29" skinid="ht_node" target="" tilt="-10.98" title="Salle d'eau RDC" url="{node7}"/>
+      <hotspot description="" id="Point04" pan="125.11" skinid="ht_node" target="" tilt="-2.51" title="RDC Séjour 01" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-05T11:17:38" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="001" title="Dressing Rdc"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="177.7" skinid="ht_node" target="" tilt="-5.67" title="Salle d'eau RDC" url="{node7}"/>
+      <hotspot description="" id="Point02" pan="64.79" skinid="ht_node" target="" tilt="-2.94" title="Dressing Rdc" url="{node10}"/>
+      <hotspot description="" id="Point03" pan="93.22" skinid="ht_node" target="" tilt="-0.44" title="Rdc Chambre" url="{node6}"/>
+      <hotspot description="" id="Point04" pan="-89.81" skinid="ht_node" target="" tilt="-5.45" title="RDC Séjour 01" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-07T02:15:21" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="2X" title="R+1 Chambre"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-0.65" skinid="ht_node" target="" tilt="2.94" title="R+1 Chambre vue 2" url="{node12}"/>
+      <hotspot description="" id="Point02" pan="95.22" skinid="ht_node" target="" tilt="-2.58" title="RDC Séjour 01" url="{node3}"/>
+      <hotspot description="" id="Point03" pan="116.92" skinid="ht_node" target="" tilt="-2.99" title="R+1 Salle d'eau" url="{node14}"/>
+      <hotspot description="" id="Point04" pan="52.54" skinid="ht_node" target="" tilt="8.54" title="R+1 Salon" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-07T02:09:09" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="2X" title="R+1 Chambre vue 2"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="78.79" skinid="ht_node" target="" tilt="-6.41" title="R+1 Chambre" url="{node11}"/>
+      <hotspot description="" id="Point02" pan="47.37" skinid="ht_node" target="" tilt="-4.76" title="R+1 dressing" url="{node13}"/>
+      <hotspot description="" id="Point03" pan="35.19" skinid="ht_node" target="" tilt="0.59" title="RDC Séjour 01" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-07T02:14:08" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="2X" title="R+1 dressing"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="144.01" skinid="ht_node" target="" tilt="-1.32" title="R+1 Chambre vue 2" url="{node12}"/>
+      <hotspot description="" id="Point02" pan="-141.1" skinid="ht_node" target="" tilt="2.76" title="R+1 Salle d'eau" url="{node14}"/>
+      <hotspot description="" id="Point03" pan="2.4" skinid="ht_node" target="" tilt="3.69" title="RDC Séjour 01" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-07T02:12:43" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="2X" title="R+1 Salle d'eau"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="105.5" skinid="ht_node" target="" tilt="-3.61" title="R+1 dressing" url="{node13}"/>
+      <hotspot description="" id="Point02" pan="121.84" skinid="ht_node" target="" tilt="3.43" title="R+1 Chambre" url="{node11}"/>
+      <hotspot description="" id="Point03" pan="18" skinid="ht_node" target="" tilt="10.23" title="R+1 Salle d'eau" url="{node15}"/>
+      <hotspot description="" id="Point04" pan="-75.45" skinid="ht_node" target="" tilt="12.34" title="R+1 Salon" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-07T02:11:32" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="2X" title="R+1 Salle d'eau"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-1.72" skinid="ht_node" target="" tilt="-1.58" title="R+1 Salle d'eau" url="{node14}"/>
+      <hotspot description="" id="Point02" pan="-21.15" skinid="ht_node" target="" tilt="0.79" title="R+1 Chambre" url="{node11}"/>
+      <hotspot description="" id="Point03" pan="-42.04" skinid="ht_node" target="" tilt="0.24" title="R+1 dressing" url="{node13}"/>
+      <hotspot description="" id="Point04" pan="33.74" skinid="ht_node" target="" tilt="1.97" title="R+1 Salon" url="{node16}"/>
+      <hotspot description="" id="Point05" pan="-173.98" skinid="ht_node" target="" tilt="-2.2" title="RDC Séjour 01" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata author="" capturedatetime="2025-03-07T02:10:20" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="2X" title="R+1 Salon"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="24.11" skinid="ht_node" target="" tilt="-1.48" title="R+1 Chambre" url="{node11}"/>
+      <hotspot description="" id="Point02" pan="61.86" skinid="ht_node" target="" tilt="-15.06" title="RDC Séjour 01" url="{node3}"/>
+      <hotspot description="" id="Point03" pan="-28.39" skinid="ht_node" target="" tilt="-3.83" title="R+1 Salle d'eau" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title="Villa jff" uuid="{01acfa04-e917-46c0-8de4-18447abf720c}"/>
+    <autorotate delay="3.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="0.100" startloaded="0" useanimation="0"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>

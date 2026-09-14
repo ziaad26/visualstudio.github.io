@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [
+			"https://www.youtube.com/iframe_api",
+			"https://player.vimeo.com/api/player.js",
+			"3rdparty/lottie/lottie.min.js"
+		],
+		"css": []
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"vrskin": {},
+	"player": {
+		"js": "pano2vr_player.js"
+	},
+	"creationdate": "2026-08-17T15:35:31.719Z",
+	"configuration": "../../../Boulot 2026/Pano2vr Output/JFF02/pano.xml",
+	"preview": {
+		"img": "preview.jpg"
+	}
+}
