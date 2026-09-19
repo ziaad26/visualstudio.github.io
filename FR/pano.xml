@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="22555" appversion="8.0.2" hassounds="0" start="node4">
+<tour apprev="22555" appversion="8.0.2" hassounds="0" start="node1">
+  <panorama hideabout="1" id="node1">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-09-14T05:52:21" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="HD" title="RDC Zone 01"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="14.59" skinid="ht_node" target="" tilt="33.29" title="R+1 Zone 01" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="131.31" skinid="ht_node" target="" tilt="3.29" title="RDC Zone 02" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="174.24" skinid="ht_node" target="" tilt="6.89" title="Entrée" url="{node3}"/>
+      <hotspot description="" id="Point04" pan="-52.57" skinid="ht_node" target="" tilt="22.84" title="Escalier 01" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
   <panorama hideabout="1" id="node4">
     <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
       <level height="3000" predecode="0" preload="0" width="3000"/>
@@ -43,29 +66,6 @@
       <hotspot description="" id="Point02" pan="88.85" skinid="ht_node" target="" tilt="-4.35" title="RDC Zone 02" url="{node4}"/>
       <hotspot description="" id="Point03" pan="-18.8" skinid="ht_node" target="" tilt="1.81" title="Escalier 01" url="{node5}"/>
       <hotspot description="" id="Point04" pan="19.74" skinid="ht_node" target="" tilt="15.15" title="R+1 Zone Palier" url="{node6}"/>
-    </hotspots>
-    <media/>
-    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-  </panorama>
-  <panorama hideabout="1" id="node1">
-    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
-      <level height="3000" predecode="0" preload="0" width="3000"/>
-      <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-09-14T05:52:21" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="HD" title="RDC Zone 01"/>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="1" pan="0" tilt="-90"/>
-      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
-    </view>
-    <hotspots>
-      <hotspot description="" id="Point01" pan="14.59" skinid="ht_node" target="" tilt="33.29" title="R+1 Zone 01" url="{node2}"/>
-      <hotspot description="" id="Point02" pan="131.31" skinid="ht_node" target="" tilt="3.29" title="RDC Zone 02" url="{node4}"/>
-      <hotspot description="" id="Point03" pan="174.24" skinid="ht_node" target="" tilt="6.89" title="Entrée" url="{node3}"/>
-      <hotspot description="" id="Point04" pan="-52.57" skinid="ht_node" target="" tilt="22.84" title="Escalier 01" url="{node5}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -139,7 +139,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{ff33b777-275d-48fe-9626-84d72adddd71}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{144aa820-da15-4c24-af1e-6b4aa6e3e7e7}"/>
     <autorotate delay="0.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="0.050" startloaded="0" useanimation="0"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
