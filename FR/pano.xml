@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="22555" appversion="8.0.2" hassounds="0" start="node4">
-  <panorama id="node4">
+  <panorama hideabout="1" id="node4">
     <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
       <level height="3000" predecode="0" preload="0" width="3000"/>
       <level height="1500" predecode="0" preload="0" width="1500"/>
@@ -9,7 +9,7 @@
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-09-14T06:17:37" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="HD" title="RDC Zone 02"/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="100" pan="43.925" projection="4" tilt="0.720453"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -24,7 +24,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node3">
+  <panorama hideabout="1" id="node3">
     <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
       <level height="3000" predecode="0" preload="0" width="3000"/>
       <level height="1500" predecode="0" preload="0" width="1500"/>
@@ -47,7 +47,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node1">
+  <panorama hideabout="1" id="node1">
     <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
       <level height="3000" predecode="0" preload="0" width="3000"/>
       <level height="1500" predecode="0" preload="0" width="1500"/>
@@ -70,7 +70,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node5">
+  <panorama hideabout="1" id="node5">
     <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
       <level height="3000" predecode="0" preload="0" width="3000"/>
       <level height="1500" predecode="0" preload="0" width="1500"/>
@@ -93,7 +93,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node6">
+  <panorama hideabout="1" id="node6">
     <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
       <level height="3000" predecode="0" preload="0" width="3000"/>
       <level height="1500" predecode="0" preload="0" width="1500"/>
@@ -115,7 +115,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node2">
+  <panorama hideabout="1" id="node2">
     <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
       <level height="3000" predecode="0" preload="0" width="3000"/>
       <level height="1500" predecode="0" preload="0" width="1500"/>
@@ -139,11 +139,11 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{efeaf929-0f92-4683-850f-224aa78d1dff}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{ff33b777-275d-48fe-9626-84d72adddd71}"/>
     <autorotate delay="0.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="0.050" startloaded="0" useanimation="0"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
-    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <control contextfullscreen="0" contextprojections="0" contextvr="0" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
